@@ -1,0 +1,39 @@
+# generic files to ignore
+*~
+*.lock
+*.swp
+*.out
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.tern-project
+
+# Intellij Idea
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+widgetsets/
+/.externalToolBuilders
+
